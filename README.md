@@ -1,1 +1,1 @@
-# parallel_bitonic_sort
+## This is an implementation of a parallel bitonic sort algorithm
